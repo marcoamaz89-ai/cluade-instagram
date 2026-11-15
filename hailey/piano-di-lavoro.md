@@ -33,12 +33,15 @@ Hailey Morgan | ER Night Shift
 
 30 caratteri. Alternativa più corta: `Hailey Morgan | Nurse Life`.
 
-### Bio (90 caratteri su 150)
+### Bio (109 caratteri su 150)
 
 ```
-ER nurse on nights. Chicago, raised in Milwaukee.
-Two cats, one loud bird, zero apologies.
+25 🩺 ER nurse on nights, Chicago
+Lakefront runs, pool tables, two cats
+Night shift beats day shift. Fight me.
 ```
+
+Schema: età, emoji, lavoro e città; hobby; una frase che fa discutere.
 
 Per tua scelta, nome utente, nome visualizzato e bio non menzionano l'AI. La dichiarazione resta nei punti indicati nella sezione 6.
 
