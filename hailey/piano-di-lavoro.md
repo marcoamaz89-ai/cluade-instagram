@@ -17,27 +17,30 @@ Tutto ciò che viene pubblicato (bio, caption, scritte a video) è in inglese am
 
 | opzione | perché |
 | --- | --- |
-| `@hailey.on.nights` | si pronuncia, dice subito il tema (turni di notte), niente numeri |
-| `@haileymorgan.chi` | nome completo + città, più neutro |
-| `@nightshifthailey` | più ricercabile, meno personale |
+| `@nursehaileymorgan` | nome completo + nicchia, si pronuncia e si cerca facilmente |
+| `@hailey.morgan.nurse` | stessa idea, più leggibile se il primo è occupato |
+| `@haileythenurse` | più corto e colloquiale, perde il cognome |
+| `@nightshift.hailey` | nicchia più specifica (turni di notte), perde il cognome |
 
+Evita la sigla `RN` nel nome utente e nel nome visualizzato: negli Stati Uniti è un titolo professionale protetto, riservato a chi ha la licenza.
 Usa lo stesso nome utente sul profilo privato e su eventuali altre piattaforme.
 
 ### Nome visualizzato (max 30 caratteri, è indicizzato dalla ricerca)
 
 ```
-Hailey Morgan | AI Character
+Hailey Morgan | ER Night Shift
 ```
 
-28 caratteri. La dicitura AI qui è la più visibile possibile: compare in grassetto sotto ogni risultato di ricerca.
+30 caratteri. Alternativa più corta: `Hailey Morgan | Nurse Life`.
 
-### Bio (125 caratteri su 150)
+### Bio (90 caratteri su 150)
 
 ```
 ER nurse on nights. Chicago, raised in Milwaukee.
 Two cats, one loud bird, zero apologies.
-Fictional character, made with AI.
 ```
+
+Per tua scelta, nome utente, nome visualizzato e bio non menzionano l'AI. La dichiarazione resta nei punti indicati nella sezione 6.
 
 ### Impostazioni account
 
@@ -375,7 +378,7 @@ Le regole delle piattaforme cambiano spesso: quello che segue è lo stato che co
 ### Dichiarazione AI su Instagram
 
 - **Attiva l'etichetta AI su ogni post e ogni reel.** Meta la richiede per video fotorealistici e audio realistici generati con AI, e può applicarla da sola o penalizzare chi non la mette. Sulle immagini conviene attivarla comunque: l'intero progetto è costruito per sembrare vero.
-- **Tieni la dicitura nel nome visualizzato e nella bio** ("AI Character", "Fictional character, made with AI"). L'etichetta sul post da sola non basta: chi arriva dal profilo deve capirlo prima di seguire.
+- **Nome utente, nome visualizzato e bio non riportano la dicitura AI** (scelta editoriale). Di conseguenza l'etichetta sui post, l'highlight `About` e la pagina ponte diventano gli unici punti in cui il pubblico lo scopre: non vanno tolti.
 - **Highlight `About` sempre al primo posto**, con la stessa dichiarazione.
 - Non rimuovere i metadati di provenienza dai file per evitare l'etichetta automatica.
 
