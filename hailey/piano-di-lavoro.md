@@ -17,12 +17,13 @@ Tutto ciò che viene pubblicato (bio, caption, scritte a video) è in inglese am
 
 | opzione | perché |
 | --- | --- |
-| `@nursehaileymorgan` | nome completo + nicchia, si pronuncia e si cerca facilmente |
-| `@hailey.morgan.nurse` | stessa idea, più leggibile se il primo è occupato |
-| `@haileythenurse` | più corto e colloquiale, perde il cognome |
-| `@nightshift.hailey` | nicchia più specifica (turni di notte), perde il cognome |
+| `@hailey.off.shift` | infermiera fuori turno: copre divisa, bar, palestra e casa |
+| `@hailey.in.scrubs` | il più immediato, ma ricalca `freya.in.scrubs` |
+| `@hailey.on.call` | termine ospedaliero con un doppio senso leggero |
+| `@hailey.clocks.out` | il momento in cui finisce il turno |
+| `@hailey.works.nights` | punta sui turni di notte, coerente con la bio |
 
-Evita la sigla `RN` nel nome utente e nel nome visualizzato: negli Stati Uniti è un titolo professionale protetto, riservato a chi ha la licenza.
+Evita `nurse` e la sigla `RN` nel nome utente: l'account AI `@emily_hart.nurse`, che usava la qualifica di infermiera come leva di vendita, è stato rimosso da Instagram per attività fraudolenta (sezione 7).
 Usa lo stesso nome utente sul profilo privato e su eventuali altre piattaforme.
 
 ### Nome visualizzato (max 30 caratteri, è indicizzato dalla ricerca)
@@ -47,6 +48,7 @@ Per tua scelta, nome utente, nome visualizzato e bio non menzionano l'AI. La dic
 
 ### Impostazioni account
 
+- **Attiva "AI-generated profile"** nelle impostazioni del profilo. Dal 31 agosto 2026 Instagram toglie dai consigliati (Esplora, Reels, suggeriti) i profili di personaggi AI che non hanno questa etichetta: senza, l'account può crescere solo tra chi già lo segue.
 - Account **Creator**, categoria **Digital creator**. Non usare categorie sanitarie ("Nurse", "Medical & health").
 - Foto profilo: primo piano del viso che riempie circa il 60% del cerchio, occhi visibili, coda alta, luce da finestra. Stessa immagine sul profilo privato.
 - Email di contatto attiva e controllata.
@@ -381,7 +383,7 @@ Le regole delle piattaforme cambiano spesso: quello che segue è lo stato che co
 ### Dichiarazione AI su Instagram
 
 - **Attiva l'etichetta AI su ogni post e ogni reel.** Meta la richiede per video fotorealistici e audio realistici generati con AI, e può applicarla da sola o penalizzare chi non la mette. Sulle immagini conviene attivarla comunque: l'intero progetto è costruito per sembrare vero.
-- **Nome utente, nome visualizzato e bio non riportano la dicitura AI** (scelta editoriale). Di conseguenza l'etichetta sui post, l'highlight `About` e la pagina ponte diventano gli unici punti in cui il pubblico lo scopre: non vanno tolti.
+- **Etichetta "AI-generated profile" sul profilo**: è il requisito nuovo e più importante, vedi sezione 7. Nome utente, nome visualizzato e bio possono restare senza la parola AI: l'etichetta di piattaforma fa già quel lavoro.
 - **Highlight `About` sempre al primo posto**, con la stessa dichiarazione.
 - Non rimuovere i metadati di provenienza dai file per evitare l'etichetta automatica.
 
@@ -415,9 +417,44 @@ Se operi dall'Italia, il regolamento europeo sull'AI prevede obblighi di traspar
 
 ---
 
+## 7. Analisi dei profili di riferimento e della nicchia
+
+**Limite di questa analisi.** Non sono riuscito a leggere `freya.in.scrubs` e `zenyacruz`: lo strumento vidIQ collegato non ha crediti, instagram.com è bloccato dalla rete di questa sessione e i due nomi utente non compaiono nei risultati di ricerca. Quello che segue viene da articoli pubblici sulla nicchia, non dai due profili.
+
+### Cosa risulta dalla ricerca
+
+- **Il precedente più vicino è finito male.** `@emily_hart.nurse`, infermiera generata con AI e gestita da uno studente di 22 anni, ha superato i 10.000 follower in un mese e portava abbonati su Fanvue. Instagram l'ha rimossa a febbraio 2026 per attività "fraudolenta"; la stampa (Wired, aprile 2026) ha poi rivelato chi c'era dietro. Non dichiarava di essere AI e usava la qualifica di infermiera come argomento di vendita.
+- **Instagram ha introdotto un'etichetta di profilo.** Dal 31 agosto 2026 esiste l'opzione "AI-generated profile". Riguarda i personaggi sintetici, non chi usa l'AI per ritoccare. Chi non la attiva resta online ma perde la distribuzione verso chi non lo segue; l'idoneità torna attivando l'etichetta o vincendo un ricorso.
+- **Fanvue è la piattaforma a pagamento usata da questi account**, perché accetta creator generati con AI; OnlyFans no.
+- **Come si presentano gli account AI dichiarati**: formule brevi in bio come "Virtual Soul" (Aitana López), "digital muse", "AI Influencer - Virtual Persona". Aitana López è l'esempio più noto di personaggio dichiarato che ha comunque costruito pubblico e contratti.
+
+### Cosa cambia nel piano
+
+| elemento | prima | ora | motivo |
+| --- | --- | --- | --- |
+| etichetta di profilo | non prevista | "AI-generated profile" attiva | senza, niente consigliati e quindi niente crescita |
+| nome utente | con `nurse` | struttura `hailey.off.shift` | la qualifica nel nome è ciò che ha esposto `emily_hart.nurse` |
+| nome visualizzato | `Hailey Morgan \| ER Night Shift` | invariato | descrive il tema, non dichiara una licenza |
+| bio | versione 1 scelta | invariata | "ER nurse on nights" resta come tratto del personaggio |
+| piattaforma a pagamento | da decidere | Fanvue | è quella che ammette personaggi AI |
+
+### Per completare l'analisi dei due profili
+
+Servono gli screenshot di ciascun profilo: intestazione (nome, bio, link, highlights), griglia dei primi 9–12 post e 3–4 post aperti con caption e numeri. In alternativa, crediti vidIQ ricaricati.
+
+**Fonti**
+
+- [The Statesman — AI "MAGA nurse" Emily Hart](https://www.thestatesman.com/world/ai-maga-influencer-emily-hart-exposed-indian-medical-student-fake-instagram-ai-generated-influencer-fanvue-google-gemini-grok-ai-1503584641.html)
+- [Cybernews — Emily Hart](https://cybernews.com/ai-news/emily-hart-maga/)
+- [Implicator — Instagram will cut the reach of AI personas that skip its new label](https://www.implicator.ai/instagram-will-cut-the-reach-of-ai-personas-that-skip-its-new-label/)
+- [Business Today — No AI label, no reach](https://www.businesstoday.in/technology/artificial-intelligence/story/no-ai-label-no-reach-instagram-cracks-down-on-ai-generated-influencers-552520-2026-09-01)
+- [Wikipedia — Aitana López](https://en.wikipedia.org/wiki/Aitana_L%C3%B3pez)
+
+---
+
 ## Prossimi passi
 
-1. Controlla la disponibilità del nome utente e scegli la piattaforma del profilo privato.
+1. Scegli il nome utente, controllane la disponibilità e attiva "AI-generated profile" nelle impostazioni.
 2. Passa la checklist sui 7 caroselli di archivio in calendario.
 3. Genera i contenuti nuovi della settimana 1: reel "Clocking in at 7 p.m." e reel "One drink, she said".
 4. Imposta profilo, bio, highlight `About` e i tre post fissati prima del primo post programmato.
