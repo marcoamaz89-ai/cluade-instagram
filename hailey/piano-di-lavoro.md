@@ -26,25 +26,25 @@ Tutto ciò che viene pubblicato (bio, caption, scritte a video) è in inglese am
 Evita `nurse` e la sigla `RN` nel nome utente: l'account AI `@emily_hart.nurse`, che usava la qualifica di infermiera come leva di vendita, è stato rimosso da Instagram per attività fraudolenta (sezione 7).
 Usa lo stesso nome utente sul profilo privato e su eventuali altre piattaforme.
 
-### Nome visualizzato (max 30 caratteri, è indicizzato dalla ricerca)
+### Nome visualizzato
 
 ```
-Hailey Morgan | ER Night Shift
+Hailey Morgan
 ```
 
-30 caratteri. Alternativa più corta: `Hailey Morgan | Nurse Life`.
+Solo il nome, come nei due profili di riferimento ("Freya Peso", "Zenya").
 
-### Bio (109 caratteri su 150)
+### Bio (130 caratteri su 150)
 
 ```
-25 🩺 ER nurse on nights, Chicago
-Lakefront runs, pool tables, two cats
-Night shift beats day shift. Fight me.
+ER nights & bad ideas on my days off
+☕ running on cold brew and 12hr shifts
+🐱 Nala & Milo's mom
+✨ the rest is in the highlights ⬇️
 ```
 
-Schema: età, emoji, lavoro e città; hobby; una frase che fa discutere.
-
-Per tua scelta, nome utente, nome visualizzato e bio non menzionano l'AI. La dichiarazione resta nei punti indicati nella sezione 6.
+Segue lo schema dei profili di riferimento (sezione 7): battuta sul lavoro, "carburante" + turni da 12 ore, gatti, rimando agli highlights. Ortografia americana: `mom`, non `mum`.
+Versione precedente, se preferisci tornare a età + frase che fa discutere: `25 🩺 ER nurse on nights, Chicago / Lakefront runs, pool tables, two cats / Night shift beats day shift. Fight me.`
 
 ### Impostazioni account
 
@@ -419,7 +419,30 @@ Se operi dall'Italia, il regolamento europeo sull'AI prevede obblighi di traspar
 
 ## 7. Analisi dei profili di riferimento e della nicchia
 
-**Limite di questa analisi.** Non sono riuscito a leggere `freya.in.scrubs` e `zenyacruz`: lo strumento vidIQ collegato non ha crediti, instagram.com è bloccato dalla rete di questa sessione e i due nomi utente non compaiono nei risultati di ricerca. Quello che segue viene da articoli pubblici sulla nicchia, non dai due profili.
+### I due profili di riferimento (dagli screenshot dell'intestazione)
+
+| | `freya.in.scrubs` | `zenyacruz` |
+| --- | --- | --- |
+| nome visualizzato | Freya Peso | Zenya 🤍 |
+| post / follower / seguiti | 139 / 48,4K / 29 | 29 / 35,9K / 23 |
+| etichetta "Profilo generato dall'IA" | sì | sì |
+| riga 1 | saving lives & lip gloss | keeping patients alive and barely keeping myself alive |
+| riga 2 | fuelled by coffee and 12hr shifts | fuelled by matcha and 12 hour shifts |
+| riga 3 | Milo's mum | mochi's mom |
+| riga 4 | it's in the highlights ⬇️ | — |
+| foto profilo | selfie in divisa azzurra, stetoscopio, ambulatorio | divisa blu scuro, stetoscopio, scollatura in evidenza |
+
+Cosa se ne ricava:
+
+- **Entrambi hanno l'etichetta AI di Instagram attiva** e sono comunque a 48K e 36K follower: l'etichetta non ha impedito la crescita.
+- **La bio è uno schema fisso**: battuta che contrappone lavoro e vita, "fuelled by X and 12hr shifts", nome dell'animale, eventuale rimando agli highlights. Tutto minuscolo, niente età, niente città, niente hashtag.
+- **Nessuno dei due scrive "AI" nella bio**: lasciano che lo dica l'etichetta di piattaforma.
+- **Nessun link visibile** nell'intestazione, e Freya rimanda agli highlights: è probabile che il passaggio al profilo a pagamento avvenga lì, ma dagli screenshot non si vede.
+- **Zenya ha 35,9K follower con soli 29 post**: la crescita arriva da pochi contenuti molto distribuiti, quasi certamente reel, non dalla quantità.
+- **Seguono pochissimi account** (29 e 23).
+- **Attenzione a Milo**: anche il gatto di Freya si chiama Milo. Nella bio di Hailey ho messo prima Nala.
+
+**Limite.** Ho visto solo le intestazioni. Griglia, highlights, caption, formati e numeri dei singoli post non sono in questi screenshot, quindi non posso dire cosa pubblicano né cosa funziona.
 
 ### Cosa risulta dalla ricerca
 
@@ -434,13 +457,13 @@ Se operi dall'Italia, il regolamento europeo sull'AI prevede obblighi di traspar
 | --- | --- | --- | --- |
 | etichetta di profilo | non prevista | "AI-generated profile" attiva | senza, niente consigliati e quindi niente crescita |
 | nome utente | con `nurse` | struttura `hailey.off.shift` | la qualifica nel nome è ciò che ha esposto `emily_hart.nurse` |
-| nome visualizzato | `Hailey Morgan \| ER Night Shift` | invariato | descrive il tema, non dichiara una licenza |
-| bio | versione 1 scelta | invariata | "ER nurse on nights" resta come tratto del personaggio |
+| nome visualizzato | `Hailey Morgan \| ER Night Shift` | `Hailey Morgan` | come nei profili di riferimento |
+| bio | età + frase che fa discutere | schema dei profili di riferimento | richiesta di allineamento ai due modelli |
 | piattaforma a pagamento | da decidere | Fanvue | è quella che ammette personaggi AI |
 
-### Per completare l'analisi dei due profili
+### Per completare l'analisi
 
-Servono gli screenshot di ciascun profilo: intestazione (nome, bio, link, highlights), griglia dei primi 9–12 post e 3–4 post aperti con caption e numeri. In alternativa, crediti vidIQ ricaricati.
+Servono gli screenshot della griglia (primi 9–12 post), della riga degli highlights e di 3–4 post o reel aperti con caption e numeri.
 
 **Fonti**
 
